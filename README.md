@@ -16,7 +16,7 @@
 - Building and exploring new projects on GitHub
 
 ### 🌱 Currently Learning
-- New technologies and sharpening my development skills
+- Studying Cybersecurity and Rust
 
 ### 👯 Looking to Collaborate On
 - Open-source projects and interesting side projects
@@ -25,17 +25,28 @@
 - Code, tech, and anything I've built
 
 ### 📫 How to Reach Me
-- Check out my repositories and feel free to open an issue or discussion!
+- Check out my linkedin or repository and feel free to open an issue or discussion!
 
 ### ⚡ Fun Fact
 - I enjoy hunting down bugs as much as I enjoy hunting in real life
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages, Tech Stack & Tools
 
+**Frontend Stack**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,js,html,css,python" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css" alt="Skills" />
+</p>
+
+**Backend Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,go,docker,postgres,mongodb,jest,aws,gcp,githubactions,gitlab,jenkins,kubernetes,nginx,rabbitmq,redis" alt="Skills" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,webstorm,vscode,figma,androidstudio,postman" alt="Skills" />
 </p>
 
 ---
