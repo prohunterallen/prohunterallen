@@ -1,16 +1,16 @@
 name: Update Badges
 on:
-  # schedule:
-  #   - cron: '0 0 * * *'
   workflow_dispatch:
-
 jobs:
   update-badges:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    # --------------------------
     steps:
       - uses: actions/checkout@v3
       - name: Badges - Readme Action
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: mr-akarat-gobkuea 
+          CREDLY_USER: mr-akarat-gobkuea
           NUMBER_LAST_BADGES: 0
