@@ -65,4 +65,10 @@
 
 ---
 
+### Badge
+<!-- START_SECTION:badges -->
+
+<!-- END_SECTION:badges -->
+---
+
 <p align="center">⭐ If you find my work helpful, consider starring a repository!</p>
