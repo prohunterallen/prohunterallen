@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/prohunterallen">
-    <img src="https://komarev.com/ghpvc/?username=prohunterallen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/prohunterallen" style="text-decoration:none;">
+    <img src="https://komarev.com/ghpvc/?username=prohunterallen&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
+ <img src="https://img.shields.io/github/followers/prohunterallen?label=Follow&style=social" />
 </p>
 
 ---
