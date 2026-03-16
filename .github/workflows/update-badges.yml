@@ -1,0 +1,16 @@
+name: Update Badges
+on:
+  # schedule:
+  #   - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Badges - Readme Action
+        uses: pemre/badges-readme@main
+        with:
+          credly_user: mr-akarat-gobkuea
+          badges_per_line: 5
