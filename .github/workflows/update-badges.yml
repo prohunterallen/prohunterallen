@@ -6,11 +6,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    # --------------------------
     steps:
       - uses: actions/checkout@v3
+      
       - name: Badges - Readme Action
-        uses: pemtajo/badge-readme@main
+        uses: hendra-h/badges-readme@v1
         with:
           CREDLY_USER: mr-akarat-gobkuea
-          NUMBER_LAST_BADGES: 0
+          BADGES_PER_LINE: 5
