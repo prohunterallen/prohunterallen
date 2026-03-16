@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/github/followers/prohunterallen?label=Follow&style=social" />
 </p>
 <p align="center">
-<a href="https://www.credly.com" target="_blank">
+<a href="https://www.credly.com/badges/c0f9339b-4a98-479c-a926-c7d8b6123b60/public_url" target="_blank">
   <img src="https://images.credly.com/size/240x240/images/9a78579d-28d7-467e-a840-c67e0a6607c5/blob" width="120" height="120" alt="Cybersecurity for General Professional" />
 </a>
 </p>
