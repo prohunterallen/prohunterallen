@@ -10,14 +10,21 @@
   </a>
  <img src="https://img.shields.io/github/followers/prohunterallen?label=Follow&style=social" />
 </p>
+<p align="center">
+<a href="https://www.credly.com" target="_blank">
+  <img src="https://images.credly.com/size/240x240/images/9a78579d-28d7-467e-a840-c67e0a6607c5/blob" width="120" height="120" alt="Cybersecurity for General Professional" />
+</a>
+</p>
 
 ---
 
 ### 🔭 What I'm Working On
-- Building and exploring new projects on GitHub
+- JPM API and Mobile App
 
 ### 🌱 Currently Learning
-- Studying Cybersecurity and Rust
+<p>
+  <img src="https://skillicons.dev/icons?i=rust" alt="Learning" />
+</p>
 
 ### 👯 Looking to Collaborate On
 - Open-source projects and interesting side projects
@@ -47,7 +54,7 @@
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,webstorm,vscode,figma,androidstudio,postman" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=git,github,webstorm,vscode,figma,androidstudio,postman" alt="Tools" />
 </p>
 
 ---
@@ -62,14 +69,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prohunterallen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 🎖️ My Badges
-
-<a href="https://www.credly.com" target="_blank">
-  <img src="https://images.credly.com/size/120x120/images/9a78579d-28d7-467e-a840-c67e0a6607c5/blob" width="120" height="120" alt="Cybersecurity for General Professional" />
-</a>
 
 ---
 
