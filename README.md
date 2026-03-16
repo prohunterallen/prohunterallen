@@ -65,9 +65,12 @@
 
 ---
 
-### Badge
-<!-- START_SECTION:badges -->
-<!-- END_SECTION:badges -->
+### 🎖️ My Badges
+
+<a href="https://www.credly.com" target="_blank">
+  <img src="https://images.credly.com/size/120x120/images/9a78579d-28d7-467e-a840-c67e0a6607c5/blob" width="120" height="120" alt="Cybersecurity for General Professional" />
+</a>
+
 ---
 
 <p align="center">⭐ If you find my work helpful, consider starring a repository!</p>
