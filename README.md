@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Allen 👋</h1>
 
 <p align="center">
-  <em>Developer · Builder · Problem Solver</em>
+  <em>Fullstack focusing on Flutter and NestJS</em>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <a href="https://www.credly.com/badges/c0f9339b-4a98-479c-a926-c7d8b6123b60/public_url" target="_blank">
-  <img src="https://images.credly.com/size/240x240/images/9a78579d-28d7-467e-a840-c67e0a6607c5/blob" width="120" height="120" alt="Cybersecurity for General Professional" />
+  <img src="https://images.credly.com/size/256x256/images/9a78579d-28d7-467e-a840-c67e0a6607c5/blob" width="120" height="120" alt="Cybersecurity for General Professional" />
 </a>
 </p>
 
@@ -22,9 +22,9 @@
 - JPM API and Mobile App
 
 ### 🌱 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=rust" alt="Learning" />
-</p>
+
+- <img src="https://skillicons.dev/icons?i=rust" alt="Learning" width="24px" /> Rust for Backend 
+- Google PMP Course
 
 ### 👯 Looking to Collaborate On
 - Open-source projects and interesting side projects
@@ -44,7 +44,7 @@
 
 **Frontend Stack**
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,sass" alt="Skills" />
 </p>
 
 **Backend Stack**
@@ -58,18 +58,4 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prohunterallen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prohunterallen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prohunterallen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center">⭐ If you find my work helpful, consider starring a repository!</p>
