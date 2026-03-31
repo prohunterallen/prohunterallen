@@ -58,9 +58,4 @@
 </p>
 
 ---
-
-### Pround to present
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prohunterallen&repo=xmcp-mono-repo&theme=radical)](https://github.com/prohunterallen/xmcp-mono-repo)
-
----
 <p align="center">⭐ If you find my work helpful, consider starring a repository!</p>
